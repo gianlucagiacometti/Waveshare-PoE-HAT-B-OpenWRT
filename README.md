@@ -4,7 +4,7 @@ Specifically for this PoE-HAT: https://www.waveshare.com/wiki/PoE_HAT_(B)
 
 This is a result of adaptation of https://github.com/grootwitbaas/Waveshare-PoE-HAT-B-Home-Assistant-Addon to OpenWRT distro.
 
-It works on Raspberry Pi 4B 64-bit with the dedicated firmware (https://firmware-selector.openwrt.org/?version=24.10.2&target=bcm27xx%2Fbcm2711&id=rpi-4)
+It works on Raspberry Pi 4B 64-bit with the dedicated firmware (https://firmware-selector.openwrt.org/?version=24.10.2&target=bcm27xx%2Fbcm2711&id=rpi-4).
 
 ## Test ##
 
